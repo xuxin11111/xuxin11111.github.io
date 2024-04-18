@@ -2,7 +2,7 @@
 layout: post
 title: Cross-scenario Emtion Recognition 
 subtitle: Based on Contrast Autoencoder (cAE)
-cover-img: /assets/img/cAE.png
+cover-img: /assets/img/emotion decoding.png
 thumbnail-img: /assets/img/emotion decoding.png
 share-img: /assets/img/emotion decoding.png
 tags: [emotion decoding]
