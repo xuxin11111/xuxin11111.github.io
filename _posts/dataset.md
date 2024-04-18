@@ -1,11 +1,11 @@
 ---
 layout: post
-title: EEG Cross-scenario Emtion Recognition 
-subtitle: Based on Contrast Autoencoder (cAE)
-cover-img: /assets/img/emotion decoding.png
-thumbnail-img: /assets/img/emotion decoding.png
-share-img: /assets/img/emotion decoding.png
-tags: [emotion decoding]
+title: Discrete Emotion Elicitation under Multiple Situations with EEG Recordings
+subtitle: (DEEMSER)
+cover-img: /assets/img/exper.jpg
+thumbnail-img: /assets/img/exper.jpg
+share-img: /assets/img/exper.jpg
+tags: [emotion decoding,dataset]
 author: Xu Xin
 ---
 
