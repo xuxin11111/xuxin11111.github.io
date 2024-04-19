@@ -9,4 +9,12 @@ tags: [emotion decoding,EEG dataset]
 author: Xu Xin
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+To prepare data for extracting cross-contextual commonalities in EEG-based emotional representations, we conducted experiments involving emotional elicitation across different contexts to build a comprehensive dataset. We have successfully completed EEG data collection from over thirty participants. This work is ongoing.
+
+Although existing research has demonstrated that various contexts can effectively induce emotions, experiments specifically designed for cross-contextual tasks have received less attention. We devised a novel experimental paradigm, as illustrated below:
+
+The experiment consists of two types: video stimuli and auditory imagination, encompassing seven blocks. Each block contains three consecutive imagination trials followed by three consecutive video trials, with the sequence of imagination and video stimuli randomized within each block. Although the content within each block is randomly selected, it is consistent in valence.
+
+The materials used for elicitation have been extensively rated online to validate their effectiveness. During the experiments, we obtained consent from participants and collected their EEG signals and peripheral physiological data (primarily photoplethysmogram and skin conductance). We have preprocessed, validated, and analyzed the experimental data. Results including participants' behavioral data, EEG topographic maps, and baseline classifications all confirm the effectiveness of the emotional elicitation.
+
+Our dataset lays the groundwork for cross-contextual data research. Advanced techniques such as deep learning models and source localization can be applied to our dataset for further analysis.
