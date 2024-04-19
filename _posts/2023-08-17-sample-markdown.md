@@ -13,7 +13,7 @@ To prepare data for extracting cross-contextual commonalities in EEG-based emoti
 
 Although existing research has demonstrated that various contexts can effectively induce emotions, experiments specifically designed for cross-contextual tasks have received less attention. We devised a novel experimental paradigm, as illustrated below:
 
-![Paradigm of the experiment](https://github.com/xuxin11111/xuxin11111.github.io/assets/ima/paradigm.png)
+![Paradigm of the experiment](https://github.com/xuxin11111/xuxin11111.github.io/blob/master/assets/img/paradigm.png)
 
 The experiment consists of two types: video stimuli and auditory imagination, encompassing seven blocks. Each block contains three consecutive imagination trials followed by three consecutive video trials, with the sequence of imagination and video stimuli randomized within each block. Although the content within each block is randomly selected, it is consistent in valence.
 
