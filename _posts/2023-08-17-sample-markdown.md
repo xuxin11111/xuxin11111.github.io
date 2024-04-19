@@ -5,7 +5,7 @@ subtitle: (DEEMSER)
 cover-img: /assets/img/exper.jpg
 thumbnail-img: /assets/img/exper.jpg
 share-img: /assets/img/exper.jpg
-tags: [emotion decoding,dataset]
+tags: [emotion decoding,EEG dataset]
 author: Xu Xin
 ---
 
