@@ -9,7 +9,7 @@ tags: [emotion decoding,EEG dataset]
 author: Xu Xin
 ---
 
-To prepare data for extracting cross-contextual commonalities in EEG-based emotional representations, we conducted experiments involving emotional elicitation across different contexts to build a comprehensive dataset. We have successfully completed EEG data collection from over thirty participants. This work is ongoing.
+To prepare data for extracting cross-contextual commonalities in EEG-based emotional representations, we conducted experiments involving emotional elicitation across different contexts to build a comprehensive dataset. We have successfully completed EEG data collection from over thirty participants. This work is still ongoing.
 
 Although existing research has demonstrated that various contexts can effectively induce emotions, experiments specifically designed for cross-contextual tasks have received less attention. We devised a novel experimental paradigm, as illustrated below:
 
