@@ -5,7 +5,7 @@ subtitle: Based on Contrast Autoencoder (cAE)
 cover-img: /assets/img/emotion decoding.png
 thumbnail-img: /assets/img/emotion decoding.png
 share-img: /assets/img/emotion decoding.png
-tags: [affective computing]
+tags: [cross-contexts, emotion decoding]
 author: Xu Xin
 mathjax: true
 ---
