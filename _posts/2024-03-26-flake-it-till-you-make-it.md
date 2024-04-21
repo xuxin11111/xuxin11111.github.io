@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EEG Cross-scenario Emtion Recognition 
+title: EEG Cross-contexts Emtion Recognition 
 subtitle: Based on Contrast Autoencoder (cAE)
 cover-img: /assets/img/emotion decoding.png
 thumbnail-img: /assets/img/emotion decoding.png
